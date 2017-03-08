@@ -1,0 +1,19 @@
+{
+  "name": "nti-lib-vendor",
+  "version": "0.0",
+  "description": "Libraries vendored by NextThought for legacy app operation",
+  "author": "nextthought",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NextThought/nti.lib.vendor"
+  },
+  "files": [
+    "vendor"
+  ],
+  "scripts": {
+    "registry": "https://npm.nextthought.com"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
