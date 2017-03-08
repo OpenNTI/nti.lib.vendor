@@ -1,6 +1,6 @@
 {
   "name": "nti-lib-vendor",
-  "version": "0.0",
+  "version": "2017.1.0",
   "description": "Libraries vendored by NextThought for legacy app operation",
   "author": "nextthought",
   "license": "UNLICENSED",
