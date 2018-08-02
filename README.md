@@ -6,5 +6,4 @@ This package contains third-party libraries we have vendored to support our appl
 
 * ExtJS - 4.2.0.663 (trimmed)
 * Mathquill - 0.9.4
-
-
+* Mathquill - 2018.7.31-nti-fork
