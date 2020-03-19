@@ -1,5 +1,5 @@
 {
-  "name": "nti-lib-vendor",
+  "name": "@nti/lib-vendor",
   "version": "2018.0.0",
   "description": "Libraries vendored by NextThought for legacy app operation",
   "author": "nextthought",
